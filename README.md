@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi :)
+#### I'm currently studying and looking for new job! 👓
 
 <!--
 **Xula/xula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
