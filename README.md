@@ -1,5 +1,11 @@
 ## Hi :)
-#### I'm currently studying and looking for new job! 👓
+My name is André, and I'm a Front-end/Mobile Developer.
+
+My main stack is React, React Native, NodeJS and Typescript, although my main work is Mobile development, I mess with backend very often.
+
+Currently I'm studying and sharpening my hard skills.
+
+
 
 <!--
 **Xula/xula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
